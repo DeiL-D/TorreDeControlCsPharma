@@ -1,0 +1,13 @@
+﻿@page
+@model TorreControlCspharma.Pages.Auth.EliminaUserModel
+@{
+    <h3>¿Seguro que quieres eliminar el usuario?</h3>
+
+    
+    
+    <form method="post">
+        <input type="hidden" asp-for="DlkCatAccEmpleado.IdEmpleado" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-page="./Index">Back to List</a>
+    </form>
+}

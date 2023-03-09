@@ -1,0 +1,14 @@
+﻿@page
+@model TorreControlCspharma.Pages.Auth.LogoutModel
+@attribute [ValidateAntiForgeryToken]
+@{
+    <link rel="stylesheet" href="~/css/LogOut.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/lib/fontawesome/dist/css/all.min.css" asp-append-version="true" />
+    <h3>¿Está seguro de que desea cerrar la sesión?</h3>
+    <form method="post" asp-page-handler="OnPostAsync">
+        @Html.AntiForgeryToken()
+        <button type="submit" class="btn-logout" asp-page-handler="OnPostAsync">Cerrar Sesión</button>
+        <br> <br><br>
+        <button asp-page="/Index" class="btn-logout" >No, Volver Al Menu</button>
+    </form>
+}

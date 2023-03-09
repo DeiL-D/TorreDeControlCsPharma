@@ -1,0 +1,28 @@
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.deps.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.runtimeconfig.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.csproj.AssemblyReference.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.AssemblyInfoInputs.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.AssemblyInfo.cs
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.csproj.CoreCompileInputs.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\refint\DALcsPharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.genruntimeconfig.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\ref\DALcsPharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.deps.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.runtimeconfig.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\bin\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.csproj.AssemblyReference.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.AssemblyInfoInputs.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.AssemblyInfo.cs
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.csproj.CoreCompileInputs.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\refint\DALcsPharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\DALcsPharma.genruntimeconfig.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\DALcsPharma\obj\Debug\net6.0\ref\DALcsPharma.dll

@@ -1,0 +1,131 @@
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\appsettings.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.staticwebassets.runtime.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.exe
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.deps.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.runtimeconfig.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.pdb
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Npgsql.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\SendGrid.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\DALcsPharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.AssemblyReference.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.AssemblyInfoInputs.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.AssemblyInfo.cs
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.CoreCompileInputs.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.RazorAssemblyInfo.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.RazorAssemblyInfo.cs
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets\msbuild.TorreControlCspharma.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets\msbuild.build.TorreControlCspharma.props
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.TorreControlCspharma.props
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.TorreControlCspharma.props
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\bundle\TorreControlCspharma.styles.css
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\projectbundle\TorreControlCspharma.bundle.scp.css
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.CopyComplete
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\refint\TorreControlCspharma.dll
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.pdb
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.genruntimeconfig.cache
+C:\Users\yersu\OneDrive\Escritorio\reposProyectosfinal\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\ref\TorreControlCspharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\appsettings.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.staticwebassets.runtime.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.exe
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.deps.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.runtimeconfig.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\TorreControlCspharma.pdb
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Humanizer.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Npgsql.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\SendGrid.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\StarkbankEcdsa.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\DALcsPharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\bin\Debug\net6.0\DALcsPharma.pdb
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.AssemblyReference.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.AssemblyInfoInputs.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.AssemblyInfo.cs
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.CoreCompileInputs.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.RazorAssemblyInfo.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.RazorAssemblyInfo.cs
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\bundle\TorreControlCspharma.styles.css
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\scopedcss\projectbundle\TorreControlCspharma.bundle.scp.css
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.csproj.CopyComplete
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\refint\TorreControlCspharma.dll
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.pdb
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\TorreControlCspharma.genruntimeconfig.cache
+C:\Users\yeray\Desktop\proyecto final c#\TorreControlCspharma\TorreControlCspharma\obj\Debug\net6.0\ref\TorreControlCspharma.dll

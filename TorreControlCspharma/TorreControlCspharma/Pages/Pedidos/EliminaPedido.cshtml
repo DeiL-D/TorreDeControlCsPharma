@@ -1,0 +1,13 @@
+﻿@page
+@model TorreControlCspharma.Pages.Pedidos.EliminaPedidoModel
+@{
+}
+<h3>¿Seguro que quieres eliminar el pedido?</h3>
+
+
+
+<form method="post">
+    <input type="hidden" asp-for="TdcTchEstadoPedido.IdPedido" />
+    <input type="submit" value="Delete" class="btn btn-danger" /> |
+    <a asp-page="./Index">Back to List</a>
+</form>

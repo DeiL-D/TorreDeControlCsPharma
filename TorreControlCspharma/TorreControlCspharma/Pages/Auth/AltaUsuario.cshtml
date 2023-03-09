@@ -1,0 +1,102 @@
+﻿@page
+@model TorreControlCspharma.Pages.Auth.AltaUsuarioModel
+@{
+   
+}
+
+<link rel="stylesheet" href="~/css/AltaUsuario.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/lib/fontawesome/dist/css/all.min.css" asp-append-version="true" />
+<h1>Lista De Empleados</h1>
+<div class="user-list">
+    <table>
+        <thead>
+            <tr>
+                <th>Usuario</th>
+                <th>Email</th>
+                <th>Nivel de acceso</th>
+                <th>Fecha De Registro</th>
+                <th>Codigo Unico</th>
+            </tr>
+        </thead>
+
+        <tbody>
+            
+            <form method="get" asp-page-handler="OnEditAsync">
+                @foreach (var DlkCatAccEmpleados in Model.DlkCatAccEmpleado)
+                {
+                <tr>
+                    <td>@DlkCatAccEmpleados.CodEmpleado</td>
+                    <td hidden>@DlkCatAccEmpleados.ClaveEmpleado</td>
+                    <td>@DlkCatAccEmpleados.EmailEmpleado</td>
+                    <td>
+                            @{
+                                switch (DlkCatAccEmpleados.NivelAcceso)
+                                {
+                                    case "0":
+                                        @("invitado")
+                                        break;
+                                    case "1":
+                                        @("usuario")
+                                        break;
+                                    case "2":
+                                        @("administrador")
+                                        break;
+                                    default:
+                                        @("")
+                                        break;
+                                }
+                            }
+                    </td>
+                    <td >@DlkCatAccEmpleados.MdDate</td>
+                    <td >@DlkCatAccEmpleados.MdUid</td>
+                    <td>
+                        <a asp-page="./EditUser" asp-route-id="@DlkCatAccEmpleados.IdEmpleado">Editar</a> |
+                        <a asp-page="./EliminaUser" asp-route-id="@DlkCatAccEmpleados.IdEmpleado">Eliminar</a>
+                    </td>
+                </tr>
+                }
+            </form>
+        </tbody>
+    </table>
+</div>
+
+<button class="create-user-btn-small" onclick="showCreateUserForm()">+</button>
+
+<div class="create-user-modal">
+    <div class="create-user-form">
+
+        <h1>Crear nuevo usuario</h1>
+        <form method="post">
+            <h2>Registro de Usuario</h2>
+            <div class="form-group">
+                <label asp-for="empleado.CodEmpleado">Usuario</label>
+                <input type="text" id="empleado.CodEmpleado" asp-for="empleado.ClaveEmpleado" name="empleado.CodEmpleado" placeholder="Nombre ej. James" required>
+            </div>
+            <div class="form-group">
+                <label asp-for="empleado.EmailEmpleado">Email</label>
+                <input type="text" id="empleado.EmailEmpleado" asp-for="empleado.EmailEmpleado" name="empleado.EmailEmpleado" placeholder="ejemplo@ejemplo.com" required>
+            </div>
+            <div class="form-group">
+                <label asp-for="empleado.ClaveEmpleado">Contraseña</label>
+                <input type="password" id="empleado.ClaveEmpleado" asp-for="empleado.ClaveEmpleado" name="empleado.ClaveEmpleado" required>
+            </div>
+            
+            <div class="form-group form-btns">
+                <button type="button" class="cancel-btn" onclick="closeCreateUserForm()">Cancelar</button>
+                <br /> <br />
+                <button type="submit">Registrarse</button>
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    function showCreateUserForm() {
+        document.querySelector(".create-user-modal").style.display = "block";
+    }
+
+    function closeCreateUserForm() {
+        document.querySelector(".create-user-modal").style.display = "none";
+    }
+</script>
+

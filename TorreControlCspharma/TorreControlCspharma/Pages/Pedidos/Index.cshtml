@@ -1,0 +1,157 @@
+﻿@page
+@model TorreControlCspharma.Pages.Pedidos.IndexModel
+@{
+
+}
+@if (Model.TdcTchEstadoPedido != null)
+{
+    <link rel="stylesheet" href="~/css/estadoPedidos.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/fontawesome/dist/css/all.min.css" asp-append-version="true" />
+    <h1>Lista De Pedidos</h1>
+    <div class="table-container">
+        
+            <table class="table">
+                <thead class="thead-dark">
+                    <tr>
+                        <th scope="col">Estado del Pedido</th>
+                        <th scope="col">Estado de Devolución</th>
+                        <th scope="col">Estado de Envío</th>
+                        <th scope="col">Estado de Pago</th>
+                        <th scope="col">Fecha del Pedido</th>
+                        <th scope="col">Línea de Distribución</th>
+                        <th scope="col">Código Único</th>
+                        <th scope="col">ID</th>
+                        <th scope="col">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var estadoPedido in Model.TdcTchEstadoPedido)
+                    {
+                        <tr>
+                                    <td>@estadoPedido.CodPedido</td>
+                        <td>
+                            @{
+                                switch (estadoPedido.CodEstadoDevolucion)
+                                {
+                                    case "A":
+                                        @("Aceptada")
+                                        break;
+                                    case "D1":
+                                        @("Devolucion en almacen")
+                                        break;
+                                    case "D2":
+                                        @("Devolucion finalizada")
+                                        break;
+                                    case "R":
+                                        @("Rechazada")
+                                        break;
+                                    default:
+                                        @("Error Inesperado")
+                                        break;
+                                }
+                            }
+                        </td>
+                        <td>
+                            @{
+                                switch (estadoPedido.CodEstadoEnvio)
+                                {
+                                    case "D":
+                                        @("Devuelto")
+                                        break;
+                                    case "E1":
+                                        @("Envio Completo")
+                                        break;
+                                    case "E2":
+                                        @("Enviado Parcial")
+                                        break;
+                                    case "P1":
+                                        @("En Preparacion")
+                                        break;
+                                    case "R":
+                                        @("Recibido en farmacia")
+                                        break;
+                                    case "R1":
+                                        @("Registrado en almacen")
+                                        break;
+                                    case "S1":
+                                        @("Solicitado")
+                                        break;
+                                    default:
+                                        @("Error Inesperado")
+                                        break;
+                                }
+                            }
+                        </td>
+                        <td>
+                            @{
+                                switch (estadoPedido.CodEstadoPago)
+                                {
+                                    case "D1":
+                                        @("Emision Cancelacion")
+                                        break;
+                                    case "D2":
+                                        @("Pago Devuelto")
+                                        break;
+                                    case "E1":
+                                        @("Emitida factura")
+                                        break;
+                                    case "P1":
+                                        @("Pagado")
+                                        break;
+                                    case "P2":
+                                        @("Pago Fraccionado")
+                                        break;
+                                    case "R":
+                                        @("Rechazado")
+                                        break;
+                                    default:
+                                        @("Error Inesperado")
+                                        break;
+                                }
+                            }
+                        </td>
+                        <td>@estadoPedido.MdDate</td>
+                        <td>
+                            @{
+                                switch (estadoPedido.CodLinea)
+                                {
+                                    case "SEV-SEV-AMA":
+                                        @("Sevilla, Amate")
+                                        break;
+                                    case "SEV-SEV-NER":
+                                        @("Sevilla, Nervión")
+                                        break;
+                                    default:
+                                        @("Error Inesperado")
+                                        break;
+                                }
+                            }
+                        </td>
+                            
+                            
+                           
+                            <td>@estadoPedido.MdUuid</td>
+                            <td>@estadoPedido.IdPedido</td>
+                            <td>
+                        <td>
+                                @if (User.IsInRole("2"))
+                                {
+                                           
+                                
+                            <a asp-page="./Edit" asp-route-id="@estadoPedido.IdPedido">Editar</a> 
+                            <a asp-page="./EliminaPedido" asp-route-id="@estadoPedido.IdPedido">Eliminar</a>
+                               }
+                        </td>
+                            
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        
+    </div>
+}
+else
+{
+    <p> Ha habido un error inesperdo, en breves lo arreglaremos</p>
+}
+

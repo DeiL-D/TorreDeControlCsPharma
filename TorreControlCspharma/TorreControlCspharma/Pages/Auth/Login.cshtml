@@ -1,0 +1,53 @@
+﻿@page
+@{
+    Layout = null;
+}
+@Html.AntiForgeryToken()
+@model TorreControlCspharma.Pages.Auth.LoginModel
+
+<link rel="stylesheet" href="~/css/Login.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/lib/fontawesome/dist/css/all.min.css" asp-append-version="true" />
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script src="https://kit.fontawesome.com/64d58efce2.js"
+            crossorigin="anonymous"></script>
+</head>
+<div class="container1">
+    <div class="forms-container">
+        <div class="signin-signup">
+            <form method="post" asp-page-handler="OnPostAsync" class="sign-in-form">
+                <h2 class="title">Sign in</h2>
+
+                <div class="input-field">
+                    <i class="fas fa-user" type="button"  data-bs-content="Introduzca su nombre de usuario o su email."></i>
+                    <input type="text" placeholder="Usuario" name="empleado.CodEmpleado" class="form-control" required />
+                    <span asp-validation-for="empleado.CodEmpleado"></span>
+                </div>
+
+                <div class="input-field">
+                    <i class="fas fa-lock" type="button"  data-bs-content="Introduzca su contraseña."></i>
+                    <input type="password" placeholder="Contraseña" name="empleado.ClaveEmpleado" class="form-control" required />
+                    <span asp-validation-for="empleado.ClaveEmpleado"></span>
+                </div>
+
+                <input type="submit"  value="Login" class="btn solid" />
+
+                
+
+
+            </form>
+        </div>
+    </div>
+
+    <div class="panels-container">
+
+        <div class="panel right-panel">
+
+            <img src="~/img/ejemplo.jpg" class="image" alt="A picture here" />
+        </div>
+    </div>
+</div>
+
+
+

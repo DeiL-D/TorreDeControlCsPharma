@@ -1,0 +1,58 @@
+﻿/* Define los colores de fondo y texto para la página */
+body {
+    background-color: #F2F6F9;
+    color: #343A40;
+}
+
+/* Estilos para el título de la página */
+h4 {
+    color: #007BFF;
+}
+
+/* Estilos para los formularios */
+form {
+    background-color: #FFFFFF;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px #BFC9D0;
+}
+
+/* Estilos para las etiquetas de los campos del formulario */
+label {
+    color: #007BFF;
+    font-weight: bold;
+}
+
+/* Estilos para los campos de selección del formulario */
+select {
+    color: #495057;
+    background-color: #FFFFFF;
+    border: 1px solid #BFC9D0;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Estilos para los campos de entrada del formulario */
+input[type="text"] {
+    color: #495057;
+    background-color: #FFFFFF;
+    border: 1px solid #BFC9D0;
+    border-radius: 3px;
+    padding: 5px;
+}
+
+/* Estilos para el botón de enviar del formulario */
+input[type="submit"] {
+    color: #FFFFFF;
+    background-color: #007BFF;
+    border: none;
+    border-radius: 3px;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+}
+
+    /* Estilos para el botón de enviar del formulario cuando se coloca el cursor sobre él */
+    input[type="submit"]:hover {
+        background-color: #0062CC;
+    }

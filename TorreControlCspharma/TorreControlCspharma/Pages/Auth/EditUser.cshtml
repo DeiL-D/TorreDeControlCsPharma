@@ -1,0 +1,56 @@
+﻿@page
+@model TorreControlCspharma.Pages.Auth.EditUserModel
+@{
+}
+
+
+<h4>Lista de Pedidos</h4>
+<br />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.NivelAcceso" class="control-label">Nivel De Acceso Del Usuario</label>
+                <select class="form-control" asp-for="DlkCatAccEmpleado.NivelAcceso">
+                    <option class="form-control" value="0">Invitado</option>
+                    <option class="form-control" value="1">Usuario</option>
+                    <option class="form-control" value="2">Administrador</option>
+                </select>
+                <span asp-validation-for="DlkCatAccEmpleado.NivelAcceso" class="text-danger"></span>
+            </div>            
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.CodEmpleado" class="control-label" >Codigo Del Empleado</label>
+                <input asp-for="DlkCatAccEmpleado.CodEmpleado" class="form-control"  />
+                <span asp-validation-for="DlkCatAccEmpleado.CodEmpleado" class="text-danger" ></span>
+            </div>
+            
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.EmailEmpleado" class="control-label"hidden>Codigo Del Empleado</label>
+                <input asp-for="DlkCatAccEmpleado.EmailEmpleado" class="form-control" hidden />
+                <span asp-validation-for="DlkCatAccEmpleado.EmailEmpleado" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.MdDate" class="control-label"hidden>Codigo Del Empleado</label>
+                <input asp-for="DlkCatAccEmpleado.MdDate" class="form-control" hidden />
+                <span asp-validation-for="DlkCatAccEmpleado.MdDate" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.MdUid" class="control-label" hidden>Codigo Del Empleado</label>
+                <input asp-for="DlkCatAccEmpleado.MdUid" class="form-control" hidden />
+                <span asp-validation-for="DlkCatAccEmpleado.MdUid" class="text-danger" hidden></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="DlkCatAccEmpleado.ClaveEmpleado" class="control-label" hidden>Codigo Del Empleado</label>
+                <input asp-for="DlkCatAccEmpleado.ClaveEmpleado" class="form-control" hidden />
+                <span asp-validation-for="DlkCatAccEmpleado.ClaveEmpleado" class="text-danger" hidden></span>
+            </div>
+            <input type="hidden" asp-for="DlkCatAccEmpleado.IdEmpleado" />
+            <div class="form-group">
+                <input type="submit" value="Actualizar" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+<div>
+    <a asp-page="./AltaUsuario">Back to List</a>
+</div>

@@ -1,0 +1,83 @@
+﻿@page
+@model TorreControlCspharma.Pages.Pedidos.EditModel
+@{
+   
+}
+<link rel="stylesheet" href="~/css/editPedido.css" asp-append-version="true" />
+<link rel="stylesheet" href="~/lib/fontawesome/dist/css/all.min.css" asp-append-version="true" />
+
+    <h4>Lista de Pedidos</h4>
+    <br />
+    <div class="row">
+        <div class="col-md-4">
+            <form method="post">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <input type="hidden" asp-for="TdcTchEstadoPedido.IdPedido" />
+                <div class="form-group">
+                    <label asp-for="TdcTchEstadoPedido.CodEstadoEnvio" class="control-label">Estado Envio</label>
+                    <select class="form-control" asp-for="TdcTchEstadoPedido.CodEstadoEnvio">
+                        <option class="form-control" value="D">Devuelto</option>
+                        <option class="form-control" value="E1">Enviado Completo</option>
+                        <option class="form-control" value="E2">Enviado Parcial</option>
+                        <option class="form-control" value="P1">En Preparacion</option>
+                        <option class="form-control" value="R">Recibido en Farmacia</option>
+                        <option class="form-control" value="R1">Solicitado</option>
+                        <option class="form-control" value="S1">Registrado en Almacen</option>
+                    </select>
+                    <span asp-validation-for="TdcTchEstadoPedido.CodEstadoEnvio" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TdcTchEstadoPedido.CodEstadoPago" class="control-label">Estado de Pago</label>
+                    <select class="form-control" asp-for="TdcTchEstadoPedido.CodEstadoPago">
+                        <option class="form-control" value="D1">Emision Cancelada</option>
+                        <option class="form-control" value="D2">Pago Devuelto</option>
+                        <option class="form-control" value="E1">Emitida Factura</option>
+                        <option class="form-control" value="P1">Pagado</option>
+                        <option class="form-control" value="P2">Pago Fraccionado</option>
+                        <option class="form-control" value="R">Rechazado</option>
+                    </select>
+                    <span asp-validation-for="TdcTchEstadoPedido.CodEstadoPago" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TdcTchEstadoPedido.CodEstadoDevolucion" class="control-label"> Estado de Devolucion</label>
+                    <select class="form-control" asp-for="TdcTchEstadoPedido.CodEstadoDevolucion">
+                        <option class="form-control" value="A">Aceptada</option>
+                        <option class="form-control" value="D1">Devolucion en Almacen</option>
+                        <option class="form-control" value="D2">Devolucion Finalizada</option>
+                        <option class="form-control" value="R">Rechazado</option>
+                    </select>
+                    <span asp-validation-for="TdcTchEstadoPedido.CodEstadoDevolucion" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                <label asp-for="TdcTchEstadoPedido.CodPedido" class="control-label" hidden>Codigo Pedido</label>
+                <input asp-for="TdcTchEstadoPedido.CodPedido" class="form-control" maxlength="16" hidden />
+                <span asp-validation-for="TdcTchEstadoPedido.CodPedido" class="text-danger" hidden></span>
+                </div>
+            <div class="form-group">
+                <label asp-for="TdcTchEstadoPedido.CodLinea" class="control-label"> Codigo de Linea De Distribución</label>
+                <select class="form-control" asp-for="TdcTchEstadoPedido.CodLinea">
+                    <option class="form-control" value="SEV-SEV-NER">Sevilla Nervión</option>
+                    <option class="form-control" value="SEV-SEV-AMA">Sevilla Amate</option>
+                  
+                </select>
+                <span asp-validation-for="TdcTchEstadoPedido.CodLinea" class="text-danger"></span>
+            </div>
+                <div class="form-group">
+                    <label asp-for="TdcTchEstadoPedido.MdUuid" class="control-label" hidden>Meta Datos Uuid</label>
+                    <input asp-for="TdcTchEstadoPedido.MdUuid" class="form-control" hidden />
+                    <span asp-validation-for="TdcTchEstadoPedido.MdUuid" class="text-danger" hidden></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="TdcTchEstadoPedido.MdDate" class="control-label" hidden>Meta Datos Fecha</label>
+                    <input asp-for="TdcTchEstadoPedido.MdDate" class="form-control" hidden />
+                    <span asp-validation-for="TdcTchEstadoPedido.MdDate" class="text-danger" hidden></span>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Actualizar" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+    <div>
+        <a asp-page="./Index">Back to List</a>
+    </div>
